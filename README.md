@@ -14,7 +14,7 @@ This guide provides simple and clear instructions to enable Navicat Premium v17 
 This guide provides simple and clear instructions to enable Navicat Premium v17 using a custom cracker. With just a few steps, you can unlock the full features of Navicat without limitations. 
 
 ### Key Details:
-- **Compatibility:** Navicat v17.1.12 (32-bit and 64-bit systems).
+- **Compatibility:** Navicat v17.3.6 (32-bit and 64-bit systems).
 - **Files Needed:** A patched winmm.dll file that replaces the original.
 - **Purpose:** Quickly set up Navicat with all its features active.
 
@@ -54,10 +54,10 @@ This guide provides simple and clear instructions to enable Navicat Premium v17 
 ## Important Notes
 
 1. **Version Compatibility:**
-   - This cracker has been verified for Navicat version **17.1.12**.
+   - This cracker has been verified for Navicat version **17.3.6**.
    - Ensure that your version is compatible.
 
->Latest Verified Version：V17.1.12
+>Latest Verified Version：V17.3.6
 <img src="./tested.png">
 
 2. **Select the Correct File:**
